@@ -1,0 +1,6 @@
+#Hello
+*kita akan mereview ini*
+Selanjutnya, jika revisi yang dilakukan oleh kontributor telah selesai, 
+Anda perlu melakukan penyelesaian review dengan cara klik Finish your review. 
+Kemudian akan tampil form untuk memberikan rekap dari ulasan kode yang telah dilakukan. 
+Anda juga dapat melihat komentar sebelumnya yang sudah dilakukan.
